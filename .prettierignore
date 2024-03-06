@@ -1,0 +1,17 @@
+# Ignore artifacts:
+build
+coverage
+
+# Inogre config file
+.eslintrc.yml
+.gitignore
+.prettierignore
+.vscode/settings.json
+package.json
+.prettierrc.json
+
+# Ignore public
+public/*
+
+#Ignore README.md
+README.md
